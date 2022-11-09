@@ -11,8 +11,9 @@ Trong thư mục dự án, anh/chị có thể chạy:
 ## 2. Thực hiện các yêu cầu sau
 
 Trong thư mục utils
-## `handleCuttingElements`
-## `handleDataCreateWallter`
+ `handleCuttingElements`
+ or
+ `handleDataCreateWallter`
 
 ## 3. Bạn dùng bài 2 kết hợp làm UI phần này:
 ## `https://www.figma.com/file/Uz64jz6YMVHJ892hJ9or5c/flutter_test_UI_UX?node-id=0:1`
