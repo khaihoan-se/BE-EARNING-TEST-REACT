@@ -17,7 +17,7 @@ Trong thư mục utils
 ## 3. Bạn dùng bài 2 kết hợp làm UI phần này:
 ## `https://www.figma.com/file/Uz64jz6YMVHJ892hJ9or5c/flutter_test_UI_UX?node-id=0:1`
 
-Trong thư mục dự án, bạn có thể chạy:
+Trong thư mục dự án, anh/chị có thể chạy:
 
   ### `npm run start`
   or
