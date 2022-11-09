@@ -2,7 +2,7 @@
 
 ## 1. Hãy viết hàm sắp xếp mãng số bên dưới để ra được số lớn nhất.
 
-Trong thư mục dự án, bạn có thể chạy:
+Trong thư mục dự án, anh/chị có thể chạy:
 
   ### `npm run case`
   or
