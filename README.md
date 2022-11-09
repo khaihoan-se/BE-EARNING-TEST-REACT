@@ -4,9 +4,9 @@
 
 Trong thư mục dự án, anh/chị có thể chạy:
 
-  ### `npm run case`
+   `npm run case`
   or
-  ### `yarn case`
+   `yarn case`
 
 ## 2. Thực hiện các yêu cầu sau
 
@@ -19,6 +19,6 @@ Trong thư mục utils
 
 Trong thư mục dự án, anh/chị có thể chạy:
 
-  ### `npm run start`
+   `npm run start`
   or
-  ### `yarn start`
+   `yarn start`
